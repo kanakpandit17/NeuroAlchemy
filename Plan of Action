@@ -1,0 +1,29 @@
+Phase 1: ANN
+Understanding Basics: Learn about neurons, layers, activation functions, and basic network architecture.
+Implementing ANN: Build and train a basic feedforward neural network with one hidden layer.
+Mathematics and Theory: Focus on forward and backward propagation, activation functions, and loss calculation.
+
+Phase 2: Deep Feedforward Neural Network
+Understanding Basics: Learn about deeper architectures with multiple hidden layers.
+Implementing MLP: Build a network with more than one hidden layer, experiment with different architectures.
+Mathematics and Theory: Study how depth affects learning and performance.
+
+Phase 3: Convolutional Neural Network (CNN)
+Understanding Basics: Learn about convolutional layers, pooling layers, and how CNNs work for image data.
+Implementing CNN: Create and train a simple CNN for image classification tasks.
+Mathematics and Theory: Understand how convolutions and pooling operations work, and how they capture features in images.
+
+Phase 4: Recurrent Neural Network (RNN)
+Understanding Basics: Learn about RNNs, their ability to handle sequences, and how they maintain state.
+Implementing RNN: Build and train a simple RNN for sequential data.
+Mathematics and Theory: Study how RNNs manage temporal dependencies and handle sequences.
+
+Phase 5: Long Short-Term Memory (LSTM)
+Understanding Basics: Learn about LSTM networks, their ability to remember long-term dependencies, and their architecture.
+Implementing LSTM: Build and train an LSTM network for tasks requiring long-term memory.
+Mathematics and Theory: Understand LSTM cells, gates, and their advantages over standard RNNs.
+
+Phase 6: Transformer Model
+Understanding Basics: Learn about transformers, attention mechanisms, and their applications in NLP.
+Implementing Transformer: Build and train a simple transformer model for sequence-to-sequence tasks.
+Mathematics and Theory: Study self-attention, multi-head attention, and positional encoding.
